@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.openbullet{
+  align-items: center;
+  font-size: 300px;
+  color:black
+}
