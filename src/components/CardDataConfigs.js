@@ -277,9 +277,9 @@ const CardDataConfigs = [
 },
 {
   image: FAMILY,
-  title: 'MY FAMILY CINEMA',
+  title: '[DETECT] MY FAMILY CINEMA',
   icon: <IoIosCheckmarkCircle/>,
-  desc: 'Puxando planos e dias restantes',
+  desc: 'Apenas testa se o email tem cadastro',
   cpmFree: '400 CPM Proxy Free',
   cpmPago: '400 CPM Proxy Free',
   price1: 'R$89',
