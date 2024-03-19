@@ -29,6 +29,7 @@ import MAGALU from '../assets/MAGALU.png';
 import XP from '../assets/XP.png';
 import AMAZON from '../assets/AMAZON.png';
 import SMILES from '../assets/SMILES.png';
+import PETZ from '../assets/PETZ.png';
 
 
 
@@ -216,7 +217,7 @@ const CardDataConfigs = [
   image: OUTLOOK,
   title: 'HOTMAIL/OUTLOOK',
   icon: <IoIosCheckmarkCircle/>,
-  desc: 'Roda todos emails microsoft, live, msn. Emails bloqueados, banidos e ativadade incomum etc vai pra custom',
+  desc: 'Roda todos emails microsoft, live, msn. Emails bloqueados, banidos e ativadade incomum etc vai pra custom o que acaba acontecendo dependendo do ip do proxy de pular alguma live',
   cpmFree: '200 CPM Proxy Residencial',
   cpmPago: '200 CPM Proxy Residencial',
   price1: 'R$199',
@@ -228,7 +229,7 @@ const CardDataConfigs = [
   image: OUTLOOK,
   title: 'HOTMAIL/OUTLOOK',
   icon: <IoIosCheckmarkCircle/>,
-  desc: 'Roda todos emails microsoft, live, msn. Emails bloqueados, banidos e ativadade incomum etc vai pra custom. Puxa varias pulavras ao mesmo tempo',
+  desc: 'Roda todos emails microsoft, live, msn. Emails bloqueados, banidos e ativadade incomum etc vai pra custom, o que acaba acontecendo dependendo do ip do proxy de pular alguma live. Puxa varias pulavras ao mesmo tempo',
   cpmFree: '200 CPM Proxy Residencial',
   cpmPago: '200 CPM Proxy Residencial',
   price1: 'R$259',
@@ -277,14 +278,25 @@ const CardDataConfigs = [
 },
 {
   image: FAMILY,
-  title: 'MY FAMILY CINEMA',
+  title: '[DETECT] MY FAMILY CINEMA',
   icon: <IoIosCheckmarkCircle/>,
-  desc: 'Puxando planos e dias restantes',
-  cpmFree: '400 CPM Proxy Free',
+  desc: 'Testa Apenas se o login tem cadastro',
+  cpmFree: '200 CPM Proxy Free',
   cpmPago: '400 CPM Proxy Free',
   price1: 'R$89',
   price2: 'R$139',
-},  
+},
+
+{
+  image: PETZ,
+  title: 'PETZ',
+  icon: <IoIosCheckmarkCircle/>,
+  desc: 'Puxando status do ultimo pedido, sem pedidos vai pra custom',
+  cpmFree: '60 CPM Proxy Free',
+  cpmPago: '400 CPM Proxy Residencial',
+  price1: 'R$149',
+  price2: 'R$239',
+}, 
 
 {
   image: DISNEY,
