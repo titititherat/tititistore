@@ -38,6 +38,16 @@ import PETZ from '../assets/PETZ.png';
 const CardDataConfigs = [
   {
     image: Claro,
+    title: 'Claro [DETECT]',
+    icon: <IoIosCheckmarkCircle/>,
+    desc: 'Testa apenas o cadastro e apenas cpf',
+    cpmFree: '10 CPM Proxy Free',
+    cpmPago: '10 CPM Proxy Free',
+    price1: 'R$159',
+    price2: 'R$259',
+  },
+  {
+    image: Claro,
     title: 'Claro [Logins]',
     icon: <IoIosCheckmarkCircle/>,
     desc: 'Não puxa planos, apenas logins acessando, testa tanto email quanto cpf',
@@ -281,11 +291,13 @@ const CardDataConfigs = [
   title: '[DETECT] MY FAMILY CINEMA',
   icon: <IoIosCheckmarkCircle/>,
   desc: 'Puxando planos e dias restantes',
-  cpmFree: '400 CPM Proxy Free',
-  cpmPago: '400 CPM Proxy Free',
-  price1: 'R$89',
+  cpmFree: '200 CPM Proxy Free',
+  cpmPago: '200 CPM Proxy Free',
+  price1: 'R$99',
   price2: 'R$139',
 },
+
+
 
 {
   image: PETZ,

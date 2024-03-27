@@ -1,5 +1,4 @@
 import { IoIosCheckmarkCircle } from "react-icons/io";
-import AZUL from '../assets/AZUL.png';
 import NETSHOES from '../assets/NETSHOES.png';
 import WAY from '../assets/WAY.png';
 import PREMIERE from '../assets/PREMIERE.png';
@@ -10,6 +9,7 @@ import PROTON from '../assets/PROTON.png';
 import MULLAD from '../assets/MULLAD.png';
 import ML from '../assets/ML.png';
 import AIRBNB from '../assets/AIRBNB.png';
+import FAMILY from '../assets/family.png';
 
 
 
@@ -39,6 +39,19 @@ const CardDataCheckers = [
     price3: 'R$359 - Vitalicio',
     link: 'https://www.youtube.com/watch?v=YxnnO-Zsk9E',
   },
+
+  {
+    image: FAMILY,
+    title: 'MY FAMILY CINEMA',
+    icon: <IoIosCheckmarkCircle/>,
+    desc: 'Checker via emulador de android (memu) Puxando planos',
+    cpmFree: '2 CPM sem proxy',
+    cpmPago: '2 CPM sem proxy',
+    price1: 'R$99 - 5 Dias',
+    price2: 'R$179 - 14 Dias',
+    price3: 'R$279 - Vitalicio',
+  },
+
   {
     image: AIRBNB,
     title: 'AIRBNB COOKIES',
