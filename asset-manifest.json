@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/tititistore/static/css/main.7a60972a.css",
-    "main.js": "/tititistore/static/js/main.d6eaca7b.js",
+    "main.js": "/tititistore/static/js/main.d37a2cf7.js",
     "static/js/787.28cb0dcd.chunk.js": "/tititistore/static/js/787.28cb0dcd.chunk.js",
     "static/media/ZAP.png": "/tititistore/static/media/ZAP.35a1ed821379e14234cd.png",
+    "static/media/BOL.png": "/tititistore/static/media/BOL.da468c3bf58358b1b663.png",
     "static/media/BLUETICKET.png": "/tititistore/static/media/BLUETICKET.d43effd49a3bb3946544.png",
     "static/media/GLOBO.png": "/tititistore/static/media/GLOBO.b31e0471ed089065b9af.png",
     "static/media/SMILES.png": "/tititistore/static/media/SMILES.f7eaa4d403f24cdbe85f.png",
@@ -22,6 +23,7 @@
     "static/media/claro.png": "/tititistore/static/media/claro.6a12dc62ef644ab3d999.png",
     "static/media/OB2.png": "/tititistore/static/media/OB2.87f09f86437814fde75b.png",
     "static/media/outlook.png": "/tititistore/static/media/outlook.1ed17cd467c55564db0f.png",
+    "static/media/MAX.png": "/tititistore/static/media/MAX.32e77e18329aa9082b50.png",
     "static/media/UNIVER.png": "/tititistore/static/media/UNIVER.81fb2c65161beb569ef5.png",
     "static/media/NODE.png": "/tititistore/static/media/NODE.cef7d768ad379088eea5.png",
     "static/media/AIRBNB.png": "/tititistore/static/media/AIRBNB.a4b2be5e9d48d9746cfc.png",
@@ -33,17 +35,18 @@
     "static/media/NORD.png": "/tititistore/static/media/NORD.4e18db8c84ddeb40bc86.png",
     "static/media/playplus.png": "/tititistore/static/media/playplus.cfab19d471de57719e67.png",
     "static/media/santa.png": "/tititistore/static/media/santa.57db497a3714daeb2b43.png",
+    "static/media/IG.png": "/tititistore/static/media/IG.dfc47cc4dd2c3068a980.png",
     "static/media/MAGALU.png": "/tititistore/static/media/MAGALU.d96d79bfc76617b701fd.png",
     "static/media/TERRA.png": "/tititistore/static/media/TERRA.4294ea222767a6b72df7.png",
     "static/media/TIMNETFLIX.png": "/tititistore/static/media/TIMNETFLIX.3a29e0a3ead35178a77d.png",
     "static/media/crunchyroll.png": "/tititistore/static/media/crunchyroll.65e951c7a8f48fda869f.png",
     "index.html": "/tititistore/index.html",
     "main.7a60972a.css.map": "/tititistore/static/css/main.7a60972a.css.map",
-    "main.d6eaca7b.js.map": "/tititistore/static/js/main.d6eaca7b.js.map",
+    "main.d37a2cf7.js.map": "/tititistore/static/js/main.d37a2cf7.js.map",
     "787.28cb0dcd.chunk.js.map": "/tititistore/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a60972a.css",
-    "static/js/main.d6eaca7b.js"
+    "static/js/main.d37a2cf7.js"
   ]
 }
