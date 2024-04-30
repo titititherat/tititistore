@@ -30,7 +30,8 @@ import XP from '../assets/XP.png';
 import AMAZON from '../assets/AMAZON.png';
 import SMILES from '../assets/SMILES.png';
 import PETZ from '../assets/PETZ.png';
-
+import BOL from '../assets/BOL.png';
+import IG from '../assets/IG.png';
 
 
 
@@ -113,16 +114,6 @@ const CardDataConfigs = [
   price2: 'R$339',
 },
 {
-  image: GLOBO,
-  title: '[DETECT] GLOBO',
-  icon: <IoIosCheckmarkCircle/>,
-  desc: 'Apenas testa se o login tem cadastro',
-  cpmFree: '70 CPM Proxy Free',
-  cpmPago: '400 CPM Proxy Premium',
-  price1: 'R$149',
-  price2: 'R$229',
-},
-{
   image: INSTA,
   title: 'INTAGRAM [DETECT]',
   icon: <IoIosCheckmarkCircle/>,
@@ -201,8 +192,9 @@ const CardDataConfigs = [
   cpmPago: '150 CPM Proxy Premium',
   price1: 'R$249',
   price2: 'R$359',
+  link: 'https://youtu.be/70sBaotDoj8'
 },
-{
+/* {
   image: NETFLIX,
   title: 'NETFLIX',
   icon: <IoIosCheckmarkCircle/>,
@@ -211,7 +203,7 @@ const CardDataConfigs = [
   cpmPago: '400 CPM Proxy Residencial',
   price1: 'R$189',
   price2: 'R$249',
-},
+}, */
 {
   image: SANTA,
   title: 'SANTANDER WEB',
@@ -256,6 +248,29 @@ const CardDataConfigs = [
   price1: 'R$129',
   price2: 'R$209',
 },
+
+{
+  image: IG,
+  title: 'IG EMAIL',
+  icon: <IoIosCheckmarkCircle/>,
+  desc: 'Testando os logins e puxando palavra de sua escolha',
+  cpmFree: '300 CPM Proxy FREE',
+  cpmPago: '300 CPM Proxy FREE',
+  price1: 'R$189',
+  price2: 'R$279',
+},
+
+{
+  image: BOL,
+  title: 'BOL EMAIL',
+  icon: <IoIosCheckmarkCircle/>,
+  desc: 'Testando os logins e puxando palavra de sua escolha. quando o proxy queima pode pular live, mas muito pouca %',
+  cpmFree: '30 CPM Proxy off com vpn rotativa',
+  cpmPago: '30 CPM Proxy Residencial',
+  price1: 'R$189',
+  price2: 'R$279',
+},
+
 {
   image: PORTOPLUS,
   title: 'PORTOPLUS',

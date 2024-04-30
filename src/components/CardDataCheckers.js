@@ -13,32 +13,9 @@ import FAMILY from '../assets/family.png';
 
 
 
-const CardDataCheckers = [
-  {
-    image: WAY,
-    title: 'SANTADER WAY',
-    icon: <IoIosCheckmarkCircle/>,
-    desc: 'Apenas logando, checker via emulador',
-    cpmFree: '3 CPM Sem Proxies',
-    cpmPago: '3 CPM Sem Proxies',
-    price1: 'R$79 - 5 Dias',
-    price2: 'R$159 - 14 Dias',
-    price3: 'R$259 - Vitalicio',
-    link: 'https://youtu.be/c6e30muHpwI',
-  },
 
-  {
-    image: PREMIERE,
-    title: 'PREMIERE + Telecine via Claro',
-    icon: <IoIosCheckmarkCircle/>,
-    desc: 'Checker abre navegador pra rodar e precisa passar logins já testados na claro. Lives apenas as que derem pra ativar, demais ja vinculadas ou sem plano vai pra bad',
-    cpmFree: '4 CPM Sem Proxies',
-    cpmPago: '4 CPM Sem Proxies',
-    price1: 'R$99 - 3 Dias',
-    price2: 'R$179 - 14 Dias',
-    price3: 'R$359 - Vitalicio',
-    link: 'https://www.youtube.com/watch?v=YxnnO-Zsk9E',
-  },
+const CardDataCheckers = [
+
 
   {
     image: FAMILY,
