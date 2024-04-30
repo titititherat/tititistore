@@ -10,12 +10,24 @@ import MULLAD from '../assets/MULLAD.png';
 import ML from '../assets/ML.png';
 import AIRBNB from '../assets/AIRBNB.png';
 import FAMILY from '../assets/family.png';
+import MAX from '../assets/MAX.png';
+
 
 
 
 
 const CardDataCheckers = [
-
+  {
+    image: MAX,
+    title: 'HBO/MAX',
+    icon: <IoIosCheckmarkCircle/>,
+    desc: 'Lives apenas contas pra criar perfil.Checker selenium, necessario logins claro já testado. Bem vindo de volta ou conta ja criada vai pra custom.',
+    cpmFree: '5 CPM sem proxy',
+    cpmPago: '5 CPM sem proxy',
+    price1: 'R$99 - 5 Dias',
+    price2: 'R$179 - 14 Dias',
+    price3: 'R$279 - Vitalicio',
+  },
 
   {
     image: FAMILY,
