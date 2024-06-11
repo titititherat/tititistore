@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tititistore/static/css/main.7a60972a.css",
-    "main.js": "/tititistore/static/js/main.c421b345.js",
+    "main.js": "/tititistore/static/js/main.6c4187fa.js",
     "static/js/787.28cb0dcd.chunk.js": "/tititistore/static/js/787.28cb0dcd.chunk.js",
     "static/media/ZAP.png": "/tititistore/static/media/ZAP.35a1ed821379e14234cd.png",
     "static/media/BOL.png": "/tititistore/static/media/BOL.da468c3bf58358b1b663.png",
@@ -10,6 +10,7 @@
     "static/media/SMILES.png": "/tititistore/static/media/SMILES.f7eaa4d403f24cdbe85f.png",
     "static/media/BRADESCO.png": "/tititistore/static/media/BRADESCO.85cb31aebf8539209fe4.png",
     "static/media/DISNEY.png": "/tititistore/static/media/DISNEY.161b13555afab50217b2.png",
+    "static/media/FERRAMENTAS.png": "/tititistore/static/media/FERRAMENTAS.f21d186a90d7bb5cafb8.png",
     "static/media/ZE.png": "/tititistore/static/media/ZE.5b3a193753221170f6cb.png",
     "static/media/oi.png": "/tititistore/static/media/oi.29130b43048662373cb7.png",
     "static/media/TUFOS.png": "/tititistore/static/media/TUFOS.0ce2ce8a330d0f5dfc3c.png",
@@ -36,17 +37,18 @@
     "static/media/playplus.png": "/tititistore/static/media/playplus.cfab19d471de57719e67.png",
     "static/media/santa.png": "/tititistore/static/media/santa.57db497a3714daeb2b43.png",
     "static/media/IG.png": "/tititistore/static/media/IG.dfc47cc4dd2c3068a980.png",
+    "static/media/SPOTIFY.png": "/tititistore/static/media/SPOTIFY.c45006c4cdad00cd6a49.png",
     "static/media/MAGALU.png": "/tititistore/static/media/MAGALU.d96d79bfc76617b701fd.png",
     "static/media/TERRA.png": "/tititistore/static/media/TERRA.4294ea222767a6b72df7.png",
     "static/media/TIMNETFLIX.png": "/tititistore/static/media/TIMNETFLIX.3a29e0a3ead35178a77d.png",
     "static/media/crunchyroll.png": "/tititistore/static/media/crunchyroll.65e951c7a8f48fda869f.png",
     "index.html": "/tititistore/index.html",
     "main.7a60972a.css.map": "/tititistore/static/css/main.7a60972a.css.map",
-    "main.c421b345.js.map": "/tititistore/static/js/main.c421b345.js.map",
+    "main.6c4187fa.js.map": "/tititistore/static/js/main.6c4187fa.js.map",
     "787.28cb0dcd.chunk.js.map": "/tititistore/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a60972a.css",
-    "static/js/main.c421b345.js"
+    "static/js/main.6c4187fa.js"
   ]
 }
