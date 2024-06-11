@@ -32,28 +32,20 @@ import SMILES from '../assets/SMILES.png';
 import PETZ from '../assets/PETZ.png';
 import BOL from '../assets/BOL.png';
 import IG from '../assets/IG.png';
+import SPOTIFY from '../assets/SPOTIFY.png';
 
 
 
 
 const CardDataConfigs = [
-  {
-    image: Claro,
-    title: 'Claro [DETECT]',
-    icon: <IoIosCheckmarkCircle/>,
-    desc: 'Testa apenas o cadastro e apenas cpf',
-    cpmFree: '10 CPM Proxy Free',
-    cpmPago: '10 CPM Proxy Free',
-    price1: 'R$159',
-    price2: 'R$259',
-  },
+ 
   {
     image: Claro,
     title: 'Claro [Logins]',
     icon: <IoIosCheckmarkCircle/>,
     desc: 'Não puxa planos, apenas logins acessando, testa tanto email quanto cpf',
-    cpmFree: '200 CPM Proxy Free',
-    cpmPago: '1200  CPM Proxy Premium',
+    cpmFree: '200  CPM Proxy Premium',
+    cpmPago: '200  CPM Proxy Premium',
     price1: 'R$99',
     price2: 'R$159',
   },
@@ -69,7 +61,26 @@ const CardDataConfigs = [
       price2: 'R$269',
       link: 'https://www.youtube.com/watch?v=1NVKDrI4Vbk',
     },
-    
+    {
+      image: Claro,
+      title: 'Claro [Faturas]',
+      icon: <IoIosCheckmarkCircle/>,
+      desc: 'Puxando Valor da Fatura | Nome | Celular | Datas Vencimento/Proxima Fatura',
+      cpmFree: '150  CPM Proxy Premium',
+      cpmPago: '150  CPM Proxy Premium',
+      price1: 'R$139',
+      price2: 'R$219',
+    },
+    {
+      image: Claro,
+      title: 'Claro [Movel]',
+      icon: <IoIosCheckmarkCircle/>,
+      desc: 'Puxando Planos de Celular - Controle ou Pre pago',
+      cpmFree: '150  CPM Proxy Premium',
+      cpmPago: '150  CPM Proxy Premium',
+      price1: 'R$159',
+      price2: 'R$249',
+    },
     {
       image: DGO,
       title: 'Directv Go [Logins]',
@@ -80,6 +91,26 @@ const CardDataConfigs = [
       price1: 'R$69',
       price2: 'R$109',
       link: 'https://www.youtube.com/watch?v=Ispmd7S4xAE',
+  },
+  {
+    image: SPOTIFY,
+    title: 'SPOTIFY LOGINS',
+    icon: <IoIosCheckmarkCircle/>,
+    desc: 'Logins acessando apenas',
+    cpmFree: '100  CPM Proxy FREE',
+    cpmPago: '100  CPM Proxy FREE',
+    price1: 'R$159',
+    price2: 'R$259',
+  },
+  {
+    image: SPOTIFY,
+    title: 'SPOTIFY PLANOS',
+    icon: <IoIosCheckmarkCircle/>,
+    desc: 'Puxando planos, planos free vao pra custom',
+    cpmFree: '5 CPM sem proxy',
+    cpmPago: '5 CPM sem proxy',
+    price1: 'R$129',
+    price2: 'R$229',
   },
   {
     image: DGO,
@@ -133,6 +164,16 @@ const CardDataConfigs = [
   price1: 'R$229',
   price2: 'R$359',
 }, 
+{
+  image: OI,
+  title: '[DETECT] OI FIBRA',
+  icon: <IoIosCheckmarkCircle/>,
+  desc: 'Live apenas CPF com plano FIbra Atual ou Legado/Antigo',
+  cpmFree: '80 CPM Proxy Free',
+  cpmPago: '500 CPM Proxy Premium',
+  price1: 'R$149',
+  price2: 'R$229',
+},
 {
   image: OI,
   title: 'OI PLAY',
