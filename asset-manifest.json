@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/tititistore/static/css/main.7a60972a.css",
-    "main.js": "/tititistore/static/js/main.54e469ad.js",
+    "main.js": "/tititistore/static/js/main.2c75d082.js",
     "static/js/787.28cb0dcd.chunk.js": "/tititistore/static/js/787.28cb0dcd.chunk.js",
     "static/media/ZAP.png": "/tititistore/static/media/ZAP.35a1ed821379e14234cd.png",
     "static/media/BOL.png": "/tititistore/static/media/BOL.da468c3bf58358b1b663.png",
     "static/media/BLUETICKET.png": "/tititistore/static/media/BLUETICKET.d43effd49a3bb3946544.png",
     "static/media/GLOBO.png": "/tititistore/static/media/GLOBO.b31e0471ed089065b9af.png",
     "static/media/SMILES.png": "/tititistore/static/media/SMILES.f7eaa4d403f24cdbe85f.png",
+    "static/media/CAIXA.png": "/tititistore/static/media/CAIXA.108ac757ef978166f572.png",
     "static/media/BRADESCO.png": "/tititistore/static/media/BRADESCO.85cb31aebf8539209fe4.png",
     "static/media/DISNEY.png": "/tititistore/static/media/DISNEY.161b13555afab50217b2.png",
     "static/media/FERRAMENTAS.png": "/tititistore/static/media/FERRAMENTAS.f21d186a90d7bb5cafb8.png",
@@ -44,11 +45,11 @@
     "static/media/crunchyroll.png": "/tititistore/static/media/crunchyroll.65e951c7a8f48fda869f.png",
     "index.html": "/tititistore/index.html",
     "main.7a60972a.css.map": "/tititistore/static/css/main.7a60972a.css.map",
-    "main.54e469ad.js.map": "/tititistore/static/js/main.54e469ad.js.map",
+    "main.2c75d082.js.map": "/tititistore/static/js/main.2c75d082.js.map",
     "787.28cb0dcd.chunk.js.map": "/tititistore/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a60972a.css",
-    "static/js/main.54e469ad.js"
+    "static/js/main.2c75d082.js"
   ]
 }
